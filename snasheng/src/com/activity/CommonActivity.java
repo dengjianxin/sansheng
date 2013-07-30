@@ -8,6 +8,7 @@ import com.actionbarsherlock.app.ActionBar;
 import com.actionbarsherlock.app.SherlockFragmentActivity;
 import com.example.sansheng.R;
 
+//xiugai  222222  
 public class CommonActivity extends SherlockFragmentActivity {
 	public static int THEME = R.style.Theme_Sherlock_Light;
 	TextView tvTitle;
